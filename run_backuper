@@ -1,0 +1,3 @@
+SHELL=/bin/bash
+MAILTO=root
+* 5 * * * root bash /etc/cron.d/backuper.sh
